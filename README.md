@@ -13,7 +13,7 @@ O Focus-Timer é uma aplicação inspirada na técnica Pomodoro, projetada para 
 
 Navegador web moderno
 
-## :hammer: Intalação
+## :hammer: Instalação
 
 1. Clone o repositório: git clone https://github.com/Raissa-Cardoso/XR-Focus-Timer.git
 2. Abra o arquivo `index.html` em seu navegador web.
